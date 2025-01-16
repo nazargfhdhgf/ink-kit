@@ -33,7 +33,7 @@ function App() {
   );
 }
 ```
-
+*
 Note: Ink Kit classes are prefixed with `ink:` and can be customized using CSS variables instead of Tailwind classes. They should be imported first so that your own custom classes are taking precedence.
 
 ## Key Features
